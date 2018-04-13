@@ -3,3 +3,19 @@ https://www.scheller.gatech.edu/centers-initiatives/ciber/projects/workingpaper/
 
 Who Wins in the Indian Parliament Election?
 https://halshs.archives-ouvertes.fr/halshs-01058590/document
+
+Keys to winning
+
+Party Mandate : Total number of seats party has won in recent election(1 year)
+Contest: There is no serious contest for the incumbent party nomination.
+Incumbency: The incumbent party candidate is the sitting president.
+Third party: There is no significant third party or independent campaign.
+Short term economy: The economy is not in recession during the election campaign.
+Long term economy: Real per capita economic growth during the term equals or exceeds mean growth during the previous two terms.
+Policy change: The incumbent administration effects major changes in national policy.
+Social unrest: There is no sustained social unrest during the term.
+Scandal: The incumbent administration is untainted by major scandal.
+Foreign/military failure: The incumbent administration suffers no major failure in foreign or military affairs.
+Foreign/military success: The incumbent administration achieves a major success in foreign or military affairs.
+Incumbent charisma: The incumbent party candidate is charismatic or a national hero.
+Challenger charisma: The challenging party candidate is not charismatic or a national hero.
